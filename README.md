@@ -17,10 +17,10 @@ a aplicação **Jupyter Notebook**
 ### Índice do conteúdo
 1. **DEMO 01**: Implementação ilustrando o *pipeline* de um sistema de Aprendizagem de Máquina:
 	+ [ML Pipeline Notebook](./notebooks/DEMO_01_ML_Pipeline.ipynb)
-	+ [ML Pipeline Exercise](./exercises/DEMO_01_ML_Pipeline.py)
+	+ [ML Pipeline Exercise](./exercises/DEMO_01_ML_Pipeline.ipynb)
 2. **DEMO_ 02**: Implementação de um Perceptron e um Multi-layer Perceptron (MLP) para o problema de classificação do dataset IRIS:
 	+ [Redes Neurais Artificiais Básicas Notebook](./notebooks/DEMO_02_ANN_IRIS.ipynb)
-	+ [Redes Neurais Artificiais Básicas Exercise](./exercises/DEMO_02_ANN_IRIS.py)
+	+ [Redes Neurais Artificiais Básicas Exercise](./exercises/DEMO_02_ANN_IRIS.ipynb)
 3. **DEMO 03**: Implementação de uma Rede Neural Convolucional para o problema de classificação do MNIST:
 	+ [CNN MNIST Python Code](./codes/DEMO03_CNN_MNIST.py)
 4. **DEMO 04**: Implementação de uma *Generative Adversarial Network* para gerar exemplos do dataset MNIST:
