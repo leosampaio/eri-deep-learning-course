@@ -10,22 +10,21 @@ Introdução aos principais conceitos de Aprendizagem de Máquina (ML); discuss�
 Esse repositório está organizado em duas pastas e um arquivo:
 * [Código em Python](./codes): contendo arquivos `.py` com exemplos completos, esses arquivos podem ser executados utilizando: `python arquivo.py`
 * [Jupyter Notebooks](./notebooks): contendo arquivos .ipynb com exemplos conforme codificado durante o minicurso esses arquivos podem ser alterados e executados no *browser* via 
+* [Exercícios em Jupyter Notebooks](./exercises): contendo arquivos .ipynb com *Jupyter Notebooks* não preenchidos com códigos, mas com instruções (para treinar)
 a aplicação **Jupyter Notebook**
 * [Slides](./Slides.pdf): Apresentação utilizada no curso em formato PDF
 
 ### Índice do conteúdo
 1. **DEMO 01**: Implementação ilustrando o *pipeline* de um sistema de Aprendizagem de Máquina:
 	+ [ML Pipeline Notebook](./notebooks/DEMO_01_ML_Pipeline.ipynb)
-	+ [ML Pipelin Python Code](./codes/DEMO_01_ML_Pipeline.py)
-2. **DEMO 02**: Implementação de um Perceptron e um Multi-layer Perceptron (MLP) para o problema de classificação do dataset IRIS:
-	+ [ML Pipeline Notebook](./notebooks/DEMO_02_ML_Pipeline.ipynb)
-	+ [ML Pipelin Python Code](./codes/DEMO_02_ML_Pipeline.py)
+	+ [ML Pipeline Exercise](./exercises/DEMO_01_ML_Pipeline.py)
+2. **DEMO_ 02**: Implementação de um Perceptron e um Multi-layer Perceptron (MLP) para o problema de classificação do dataset IRIS:
+	+ [Redes Neurais Artificiais Básicas Notebook](./notebooks/DEMO_02_ANN_IRIS.ipynb)
+	+ [Redes Neurais Artificiais Básicas Exercise](./exercises/DEMO_02_ANN_IRIS.py)
 3. **DEMO 03**: Implementação de uma Rede Neural Convolucional para o problema de classificação do MNIST:
-	+ [ML Pipeline Notebook](./notebooks/DEMO_03_ML_Pipeline.ipynb)
-	+ [ML Pipelin Python Code](./codes/DEMO_03_ML_Pipeline.py)
+	+ [CNN MNIST Python Code](./codes/DEMO03_CNN_MNIST.py)
 4. **DEMO 04**: Implementação de uma *Generative Adversarial Network* para gerar exemplos do dataset MNIST:
-	+ [ML Pipeline Notebook](./notebooks/DEMO_04_ML_Pipeline.ipynb)
-	+ [ML Pipelin Python Code](./codes/DEMO_04_ML_Pipeline.py)
+	+ [GAN MNIST Python Code](./codes/DEMO04_GAN_MNIST.py)
 
 
 ### Materiais extras, Slides, Papers, etc.:
